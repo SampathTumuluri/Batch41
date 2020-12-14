@@ -1,2 +1,2 @@
-this is for git development
+this is for git development project
 change for day two work
