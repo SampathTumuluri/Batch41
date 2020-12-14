@@ -1,3 +1,3 @@
-this is for git development practise
-this is for git project new file
+this is for git development project practise
+this is for git development project
 change for day two work
